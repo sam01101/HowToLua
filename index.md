@@ -1,12 +1,12 @@
 <details><summary>目录</summary>
 <p>
 
-- [背景](#背景)
-- [特性](#特性)
-- [应用场景](#应用)
-- [动机](#动机)
-- [内容目录](#内容目录)
-- [资料引用 / 参考](#参考)
+- <a href="#背景" target="_blank">背景</a>
+- <a href="#特性" target="_blank">特性</a>
+- <a href="#应用" target="_blank">应用场景</a>
+- <a href="#动机" target="_blank">动机</a>
+- <a href="#内容目录" target="_blank">内容目录</a>
+- <a href="#参考" target="_blank">资料引用 / 参考</a>
 
 </p>
 </details>
@@ -29,10 +29,10 @@ Lua 是一种轻量小巧的脚本语言，用标准C语言编写并以源代码
 
 - 游戏开发如: 梦幻西游 <!-- 你觉得网易的我会给你链接吗? -->
 - 独立应用脚本
-- Web 应用脚本: [lua-nginx-module](https://github.com/openresty/lua-nginx-module)
-- 扩展和数据库插件如: [MySQL Proxy](https://downloads.mysql.com/docs/mysql-proxy-en.a4.pdf) 和 [MySQL WorkBench](https://www.mysql.com/cn/products/workbench/index.html)
-- 安全系统，如入侵检测系统, [防火墙](https://www.bt.cn/bbs/thread-13647-1-1.html)
-- 游戏作弊的脚本引擎如: [GameGuardian](https://gameguardian.net)
+- Web 应用脚本: <a href="https://github.com/openresty/lua-nginx-module" target="_blank">lua-nginx-module</a>
+- 扩展和数据库插件如: <a href="https://downloads.mysql.com/docs/mysql-proxy-en.a4.pdf" target="_blank">MySQL Proxy</a> 和 <a href="https://www.mysql.com/cn/products/workbench/index.html" target="_blank">MySQL WorkBench</a>
+- 安全系统，如入侵检测系统, <a href="https://www.bt.cn/bbs/thread-13647-1-1.html" target="_blank">防火墙</a>
+- 游戏作弊的脚本引擎如: <a href="https://gameguardian.net" target="_blank">GameGuardian</a>
 
 ## 动机
 
@@ -88,9 +88,9 @@ Lua 是一种轻量小巧的脚本语言，用标准C语言编写并以源代码
 # 参考
 > Sam: 我衷心感谢现在大部分的资源都是免费的, 正因如此我才不用额外花费学习. 但请有能力的朋友们买正版书来支持作者
 
-- [Lua 5.2 源码](https://www.lua.org/source/5.2/index.html)
-- [Runoob](https://www.runoob.com/lua/lua-tutorial.html) _提供Lua基础知识_
-- [CSDN](https://blog.csdn.net)
-- [Lua 5.2 Bytecode and Virtual Machine](http://files.catwell.info/misc/mirror/lua-5.2-bytecode-vm-dirk-laurie/lua52vm.html) _及其[翻译](https://bbs.pediy.com/thread-222768.htm)_
-- [A No-Frills Introduction to Lua 5.1 VM Instructions](http://luaforge.net/docman/83/98/ANoFrillsIntroToLua51VMInstructions.pdf) _及其翻译(收费)_
-- [函数列表(部分过时)](https://www.gammon.com.au/scripts/doc.php?lua)
+- <a href="https://www.lua.org/source/5.2/index.html" target="_blank">Lua 5.2 源码</a>
+- <a href="https://www.runoob.com/lua/lua-tutorial.html" target="_blank">Runoob</a> _提供Lua基础知识_
+- <a href="https://blog.csdn.net" target="_blank">CSDN</a>
+- <a href="http://files.catwell.info/misc/mirror/lua-5.2-bytecode-vm-dirk-laurie/lua52vm.html" target="_blank">Lua 5.2 Bytecode and Virtual Machine</a> _及其<a href="https://bbs.pediy.com/thread-222768.htm" target="_blank">翻译</a>_
+- <a href="http://luaforge.net/docman/83/98/ANoFrillsIntroToLua51VMInstructions.pdf" target="_blank">A No-Frills Introduction to Lua 5.1 VM Instructions</a> _及其翻译(收费)_
+- <a href="https://www.gammon.com.au/scripts/doc.php?lua" target="_blank">函数列表(部分过时)</a>
