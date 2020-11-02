@@ -1,5 +1,3 @@
-# How To Lua
-一份完整的Lua 5.2教程
 <details>
 <summary>目录</summary>
 <p>
