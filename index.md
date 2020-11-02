@@ -1,12 +1,12 @@
 <details><summary>目录</summary>
 <p>
 
-- <a href="#背景" target="_blank">背景</a>
-- <a href="#特性" target="_blank">特性</a>
-- <a href="#应用" target="_blank">应用场景</a>
-- <a href="#动机" target="_blank">动机</a>
-- <a href="#内容目录" target="_blank">内容目录</a>
-- <a href="#参考" target="_blank">资料引用 / 参考</a>
+- [背景](#背景)
+- [特性](#特性)
+- [应用场景](#应用)
+- [动机](#动机)
+- [内容目录](#内容目录)
+- [资料引用 / 参考](#参考)
 
 </p>
 </details>
@@ -86,11 +86,11 @@ Lua 是一种轻量小巧的脚本语言，用标准C语言编写并以源代码
 
 
 # 参考
-> Sam: 我衷心感谢现在大部分的资源都是免费的, 正因如此我才不用额外花费学习. 但请有能力的朋友们买正版书来支持作者
+> 我衷心感谢现在大部分的资源都是免费的, 正因如此我才不用额外花费学习. 但请有能力的朋友们买正版书来支持作者
 
 - <a href="https://www.lua.org/source/5.2/index.html" target="_blank">Lua 5.2 源码</a>
 - <a href="https://www.runoob.com/lua/lua-tutorial.html" target="_blank">Runoob</a> _提供Lua基础知识_
 - <a href="https://blog.csdn.net" target="_blank">CSDN</a>
 - <a href="http://files.catwell.info/misc/mirror/lua-5.2-bytecode-vm-dirk-laurie/lua52vm.html" target="_blank">Lua 5.2 Bytecode and Virtual Machine</a> _及其<a href="https://bbs.pediy.com/thread-222768.htm" target="_blank">翻译</a>_
 - <a href="http://luaforge.net/docman/83/98/ANoFrillsIntroToLua51VMInstructions.pdf" target="_blank">A No-Frills Introduction to Lua 5.1 VM Instructions</a> _及其翻译(收费)_
-- <a href="https://www.gammon.com.au/scripts/doc.php?lua" target="_blank">函数列表(部分过时)</a>
+- <a href="https://www.gammon.com.au/scripts/doc.php?lua" target="_blank">Lua 函数列表(部分可能过时)</a>
