@@ -9,12 +9,9 @@ jobs:
         with:
           persist-credentials: false
 
-      - name: Deploy 🚀
-        uses: JamesIves/github-pages-deploy-action@3.7.1
+      # Specify the target branch (optional)
+      - uses: helaili/jekyll-action@2.0.4
+        env:
+          JEKYLL_PAT: ${{ secrets.JEKYLL_PAT }}
         with:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-          BRANCH: gh-pages # The branch the action should deploy to.
-          FOLDER: . # The folder the action should deploy.
-          CLEAN: true # Automatically remove deleted files from the deploy branch
-          # Silences the action output preventing it from displaying git messages.
-          SILENT: true
+          target_branch: 'gh-pages'
