@@ -1,5 +1,4 @@
-<details>
-<summary>目录</summary>
+<details><summary>目录</summary>
 <p>
 
 - [背景](#背景)
