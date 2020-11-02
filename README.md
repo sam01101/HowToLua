@@ -1,5 +1,5 @@
-# 如何学Lua(Lua教程)
-一个完整的Lua 5.2教程
+# How To Lua
+一份完整的Lua 5.2教程
 <details>
 <summary>目录</summary>
 <p>
@@ -30,7 +30,7 @@ Lua 是一种轻量小巧的脚本语言，用标准C语言编写并以源代码
     
 ## 应用
 
-- 游戏开发如: [梦幻西游](`你觉得网易的我会给你链接吗`)
+- 游戏开发如: 梦幻西游 <!-- 你觉得网易的我会给你链接吗? -->
 - 独立应用脚本
 - Web 应用脚本: [lua-nginx-module](https://github.com/openresty/lua-nginx-module)
 - 扩展和数据库插件如: [MySQL Proxy](https://downloads.mysql.com/docs/mysql-proxy-en.a4.pdf) 和 [MySQL WorkBench](https://www.mysql.com/cn/products/workbench/index.html)
@@ -41,9 +41,9 @@ Lua 是一种轻量小巧的脚本语言，用标准C语言编写并以源代码
 
 > Lua 是一种轻量小巧的脚本语言，用标准C语言编写并以源代码形式开放
 
-基于容易学会与轻量, 此语言被用于多种的环境中, 比如魔兽世界(WoW), 游戏等.
+基于容易学会与轻量的优点, 此语言被用于多种的环境中.
 
-此教程会基于Lua 5.2讲解, 除了基本的语法之外, 还有有关二进制格式及其指令等。
+此教程会基于Lua 5.2 版本讲解, 除了基本的语法之外, 还有有关二进制格式及其指令等。
 
 这个项目的名字来源于 HowToBasic 的频道名称
 
@@ -88,8 +88,8 @@ Lua 是一种轻量小巧的脚本语言，用标准C语言编写并以源代码
         - 实战示范
 
 
-#参考
-> Sam: 我衷心感谢现在大部分的资源都是免费的, 正因如此我才不用额外花费学习. 但请有努力的朋友们买正版书来支持作者
+# 参考
+> Sam: 我衷心感谢现在大部分的资源都是免费的, 正因如此我才不用额外花费学习. 但请有能力的朋友们买正版书来支持作者
 
 - [Lua 5.2 源码](https://www.lua.org/source/5.2/index.html)
 - [Runoob](https://www.runoob.com/lua/lua-tutorial.html) _提供Lua基础知识_
