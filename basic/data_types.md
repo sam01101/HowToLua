@@ -1,3 +1,4 @@
+提示: 如果需要使用目录请到[这里](https://github.com/sam01101/HowToLua/blob/main/basic/data_types.md)观看文档
 <details><summary>目录</summary>
 <p>
 
