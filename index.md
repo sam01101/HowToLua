@@ -48,8 +48,8 @@ Lua 是一种轻量小巧的脚本语言，用标准C语言编写并以源代码
 ## 内容目录
 ###### 请确保你已经安装了Lua 5.2/5.3的环境并可以正常运行
 - 基础: Lua基础知识
-    - [简介](#/basic/intro)
-    - [数据类型 (数字, 字符, boolean, nil)](#/basic/data_types)
+    - [简介](#/basic/intro.md)
+    - [数据类型 (数字, 字符, boolean, nil)](#/basic/data_types.md)
     - 变量 (局部变量local, 全局变量globals)
     - 循环 (for, while, repeat)
     - 逻辑语句 (if, then, elseif, end)
